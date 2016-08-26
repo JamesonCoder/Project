@@ -71,6 +71,7 @@ max-height: 25%;
 
 .George-Washington {
 	background-image: url("background img/A_Revolution.JPG");
+	background-image-border: 2px solid black;
 }
 
 .George-Washington {
@@ -78,7 +79,7 @@ max-height: 25%;
 	background-repeat: no-repeat;
 	background-position: 100%;
 	background-size: 75%
-	background-image-border: 2px solid black;
+
 }
 
 .John-Adams {
