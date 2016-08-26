@@ -78,7 +78,7 @@ max-height: 25%;
 
 .George-Washington {
 	border: 2px solid black;
-	border-margin-left: -25px
+	border-left-margin: 25px
 
 
 }
