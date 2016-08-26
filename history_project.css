@@ -71,24 +71,24 @@ max-height: 25%;
 
 .George-Washington {
 	background-image: url("background img/A_Revolution.JPG");
-	background-repeat: no-repeat;
-	background-position: 100%;
-	background-size: 75%;
 }
 
 .George-Washington {
 	border: 2px solid black;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	background-size: 75%
 }
 
 .John-Adams {
 	background-image: url("background img/Declaration_Independence.jpg");
-	background-repeat: no-repeat;
-	background-position: 100%;
-	background-size: 75%;
 }
 
 .John-Adams {
 	border: 1px solid black;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	background-size: 75%
 }
 
 .Thomas-Jefferson {
