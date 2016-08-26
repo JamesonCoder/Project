@@ -84,7 +84,10 @@ max-height: 25%;
 	background-image: url("background img/Declaration_Independence.jpg");
 	background-repeat: no-repeat;
 	background-position: 100%;
-	background-size: 75%
+	background-size: 75%;
+}
+
+.John-Adams {
 	border: 1px solid black;
 }
 
