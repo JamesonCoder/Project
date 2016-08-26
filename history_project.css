@@ -7,7 +7,7 @@ header {
 }
 
 header {
-	background-image: url("https://github.com/JamesonCoder/project/blob/master/background%20img/American_Flag2.jpg?raw=true");
+	background-image: url("background img/American_Flag2");
 	background-size: 100%;
 }
 
@@ -70,7 +70,7 @@ max-height: 25%;
 
 
 .George-Washington {
-	background-image: url("https://github.com/JamesonCoder/project/blob/master/background%20img/A_Revolution.JPG?raw=true");
+	background-image: url("background img/A_Revolution.JPG");
 	background-repeat: no-repeat;
 	background-position: 100%;
 	background-size: 75%
